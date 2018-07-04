@@ -1,0 +1,22 @@
+.navbar-brand {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    margin: auto;
+}
+.navbar-toggle {
+    z-index:3;
+}
+
+.navbar-default {
+background-color:transparent;
+border:none;
+}
+
+.navbar-default a:hover{
+	border-bottom:2px solid green;
+	
+}
+
